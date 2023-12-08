@@ -62,9 +62,7 @@ if(isset($_POST['prenom']) && isset($_POST['nom']) && isset($_POST['gender'])) {
 
 
 
-<script>
-    console.log('bonjour');
-</script>
+
 </body>
 </html>
 
